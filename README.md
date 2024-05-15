@@ -1,6 +1,6 @@
 # 7TAMI_MM
 
-**A Multi-Modal High-Resolution and High-Constrast 7T MRI template to segment Deep Grey Nuclei, and parcellate Substantia Nigra, STh, Red Nuclei (on MP2rage T1map).**
+**A pipeline using a Multi-Modal 7T MRI template to segment Deep Grey Nuclei, and parcellate Substantia Nigra, STh, Red Nuclei (on MP2rage T1map, Quantitative Susceptibility Mapping and Apparent Transverse Relaxation Rate R2s maps).**
 
 # How to use (command lines using ants Library)
 
