@@ -1,0 +1,11 @@
+Label	Name	Lat
+1	SNc	Left
+2	SNr	Left
+3	STh	Left
+4	RN	Left
+5	Nig	Left
+6	SNc	Right
+7	SNr	Right
+8	STh	Right
+9	RN	Right
+10	Nig	Right
